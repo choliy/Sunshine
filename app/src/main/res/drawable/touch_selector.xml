@@ -1,0 +1,18 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@color/activated"
+        android:state_pressed="true"/>
+
+    <item
+        android:drawable="@color/activated"
+        android:state_activated="true"/>
+
+    <item
+        android:drawable="@color/activated"
+        android:state_selected="true"/>
+
+    <item
+        android:drawable="@android:color/white"/>
+
+</selector>
